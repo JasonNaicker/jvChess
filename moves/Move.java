@@ -1,3 +1,4 @@
+/* @Deprecated
 package moves;
 
 public class Move {
@@ -18,4 +19,4 @@ public class Move {
         this.isCastling = false;
         this.isEnPassant = false;
     }
-}
+} */

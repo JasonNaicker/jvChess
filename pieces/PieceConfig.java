@@ -1,3 +1,4 @@
+/* @Deprecated
 package pieces;
 import java.util.*;
 
@@ -12,4 +13,4 @@ public class PieceConfig {
 
     public static final int WHITE = 0;
     public static final int BLACK = 8;
-}
+} */

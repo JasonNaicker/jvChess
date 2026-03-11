@@ -1,3 +1,4 @@
+/* @Deprecated
 package utilities;
 import board.Square;
 import pieces.PieceConfig;
@@ -41,3 +42,4 @@ public class Utilities {
         }
     }
 }
+*/

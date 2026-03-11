@@ -1,3 +1,4 @@
+/* @Deprecated
 package board;
 import enums.BoardColor;
 import pieces.Piece;
@@ -19,4 +20,4 @@ public class Square {
 
         public String getNotation() {return this.notation;}
 
-    }
+    }*/

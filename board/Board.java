@@ -1,11 +1,10 @@
 package board;
-import pieces.*;
-import utilities.Utilities;
 public class Board {
 
-    private Square[][] board = new Square[8][8];
+    //private Square[][] board = new Square[8][8];
+    private long[] board = new long[12];
     private final String startingPosition = "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1";
-
+    /* @Deprecated
     public void CreateBoard() {
         for(int rank = 0; rank < 8; rank++) {
             for(int file = 0; file < 8; file++) {
@@ -48,5 +47,5 @@ public class Board {
             }
         }
     }
-
+*/
 }
